@@ -1,0 +1,60 @@
+.color {
+    color: aliceblue;
+}
+
+body {
+    font-family: 'Open Sans';
+}
+
+#navbar {
+    background-color: #2874F0;
+    /* align-items: center;
+    align-content: center;
+    align-self: center; */
+    height: 50px;
+}
+
+.btn {
+    color: aliceblue;
+}
+
+.input1 {
+    width: 400px;
+    /* border-radius: 25px; */
+    height: 40px;
+}
+
+.searchbox{
+    display: flex;
+    margin-top: 1%;
+    
+}
+
+.searchicon
+{
+    position: absolute;
+    margin-left: 360px;
+    color: #2874F0;
+    border: none;
+}
+
+.icon{
+   width: 100px;
+   height: 35px;
+   margin-left: 200px;
+   margin-right: 0%;
+
+}
+.list
+{
+    margin-left: 2%;
+    font-size: small;
+    clear: both;
+    display: inline-block;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}

@@ -1,0 +1,64 @@
+.cardflot{
+    float: right;
+    margin-right: 10%;
+    margin-top: 1%;
+}
+
+.arro
+{
+    margin-left: 10px;
+
+}
+
+.heroline
+{
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-right: 6%;
+}
+
+
+.linemar
+{
+    margin-left: 10%;
+    margin-top: 1%;
+
+}
+
+.itemlist
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: auto;
+    padding: 1%;
+    font-size: medium;
+    font-weight: 400;
+    align-items: center;
+
+}
+
+.card{
+    border: 1px solid black;
+    width: 70%;
+    height: auto;
+    margin-left: 12%;
+    margin-left: 12%;
+}
+
+/* .card:hover{
+    transform: scale(0.7);
+    background-color: bisque;
+} */
+
+.itemname
+{
+    color: black;
+    font-weight: 400;
+    margin-bottom: auto;
+}
+
+.itemcolor
+{
+    font-size: 8px;
+    font-weight: 100;
+}
